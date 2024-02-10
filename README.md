@@ -5,7 +5,7 @@ website design project
 🌟 About
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://martalionaite.github.io/48-grupe-coming-soon/
+Site published at: https://martalionaite.github.io/namu-darbas-doctor/
 
 Design: coming soon
 
@@ -29,7 +29,7 @@ https://git-scm.com
 Would like to run this project locally? Open terminal and follow these steps:
 
 Clone the repo
-git clone https://github.com/martalionaite/48-grupe-coming-soon.git
+git clone https://github.com/martalionaite/namu-darbas-doctor
 Install NPM packages
 npm i
 or
